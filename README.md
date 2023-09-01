@@ -14,4 +14,4 @@ practice
 
 # Auther
 
-※ Shotaro Matsudo 
+ 
